@@ -1,1 +1,10 @@
 *.conf
+*.attr
+*.old
+*.csr
+*.index-*
+*.serial-*
+*.pem
+*.pass
+*.pkcs12
+
